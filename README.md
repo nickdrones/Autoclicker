@@ -1,1 +1,1 @@
-# Scene_Switcher
+This is a simple autoclicker program. I originally programmed it to click the left mouse button every 50 seconds, with the F1 key being an on/off toggle for the loop. I currently use it as a timed scene switcher for OBS, but you can easily adjust the time value (currently in the code as 50000) to any larger or smaller value to creat a timelapse clicker or even autoclicker for an FPS. Enjoy! :-)
